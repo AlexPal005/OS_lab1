@@ -6,6 +6,4 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/OS_lab_1.iml
-/out/
-/.idea/
+.idea/
